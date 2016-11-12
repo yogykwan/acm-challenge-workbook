@@ -19,4 +19,9 @@
   - [x] [AOJ 0033: Ball](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0033)
   - [x] [POJ 3009: Curling 2.0](http://poj.org/problem?id=3009)
 
+- 宽度优先搜索
+  - [x] [AOJ 0558: Cheese](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0558)
+  - [x] [POJ 3669: Meteor Shower](http://poj.org/problem?id=3669)
+  - [x] [AOJ 0121: Seven Puzzle](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0121)
+
 
