@@ -31,12 +31,12 @@
   - [x] [AOJ 0525: Osenbei](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0525)
 
 # 2.2 贪心法
-- 区间
+- 区间贪心
   - [x] [POJ 2376: Cleaning Shifts](http://poj.org/problem?id=2376)
   - [x] [POJ 1328: Radar Installation](http://poj.org/problem?id=1328)
   - [x] [POJ 3190: Stall Reservations](http://poj.org/problem?id=3190)
   
-- 其他
+- 其他贪心
   - [x] [POJ 2393: Yogurt factory](http://poj.org/problem?id=2393)
   - [x] [POJ 1017: Packets](http://poj.org/problem?id=1017)
   - [x] [POJ 3040; Allowance](http://poj.org/problem?id=3040)
@@ -44,9 +44,9 @@
   - [x] [POJ 3262: Protecting the Flowers](http://poj.org/problem?id=3262)
   
 # 2.3 动态规划
-- 基础
-  - [ ] [POJ 3176: ](http://poj.org/problem?id=3176)
-  - [ ] [POJ 2229: ](http://poj.org/problem?id=2229)
-  - [ ] [POJ 2385: ](http://poj.org/problem?id=2385)
-  - [ ] [POJ 3616: ](http://poj.org/problem?id=3616)
-  - [ ] [POJ 3280: ](http://poj.org/problem?id=3280)
+- 基础动态规划
+  - [x] [POJ 3176: Cow Bowling](http://poj.org/problem?id=3176)
+  - [x] [POJ 2229: Sumsets](http://poj.org/problem?id=2229)
+  - [x] [POJ 2385: Apple Catching](http://poj.org/problem?id=2385)
+  - [x] [POJ 3616: Milking Time](http://poj.org/problem?id=3616)
+  - [x] [POJ 3280: Cheapest Palindrome](http://poj.org/problem?id=3280)
