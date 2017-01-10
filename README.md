@@ -36,10 +36,17 @@
   - [x] [POJ 1328: Radar Installation](http://poj.org/problem?id=1328)
   - [x] [POJ 3190: Stall Reservations](http://poj.org/problem?id=3190)
   
-  
 - 其他
-  - [ ] [POJ 2393](http://poj.org/problem?id=2393)
-  - [ ] [POJ 1017](http://poj.org/problem?id=1017)
-  - [ ] [POJ 3040](http://poj.org/problem?id=3040)
-  - [ ] [POJ 1862](http://poj.org/problem?id=1862)
-  - [ ] [POJ 3262](http://poj.org/problem?id=3262)
+  - [x] [POJ 2393: Yogurt factory](http://poj.org/problem?id=2393)
+  - [x] [POJ 1017: Packets](http://poj.org/problem?id=1017)
+  - [x] [POJ 3040; Allowance](http://poj.org/problem?id=3040)
+  - [x] [POJ 1862: Stripies](http://poj.org/problem?id=1862)
+  - [x] [POJ 3262: Protecting the Flowers](http://poj.org/problem?id=3262)
+  
+# 2.3 动态规划
+- 基础
+  - [ ] [POJ 3176: ](http://poj.org/problem?id=3176)
+  - [ ] [POJ 2229: ](http://poj.org/problem?id=2229)
+  - [ ] [POJ 2385: ](http://poj.org/problem?id=2385)
+  - [ ] [POJ 3616: ](http://poj.org/problem?id=3616)
+  - [ ] [POJ 3280: ](http://poj.org/problem?id=3280)
