@@ -50,3 +50,8 @@
   - [x] [POJ 2385: Apple Catching](http://poj.org/problem?id=2385)
   - [x] [POJ 3616: Milking Time](http://poj.org/problem?id=3616)
   - [x] [POJ 3280: Cheapest Palindrome](http://poj.org/problem?id=3280)
+
+- 优化递推式
+  - [x] [POJ 1742: Coins](http://poj.org/problem?id=1742)
+  - [x] [POJ 3046: Ant Counting](http://poj.org/problem?id=3046)
+  - [x] [POJ 3181: Dollar Dayz](http://poj.org/problem?id=3181)
