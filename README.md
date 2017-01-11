@@ -16,7 +16,7 @@
 
 # 1.3 题库目录
 
-初级： 
+* 初级： 
 [穷竭搜索](#21-穷竭搜索)、
 [贪心法](#22-贪心法)、
 [动态规划](#23-动态规划)、
@@ -24,7 +24,7 @@
 [图论](#25-图论)、
 [数论](#26-数论)
 
-中级：
+* 中级：
 [二分搜索](二分搜索)、
 [常用技巧](常用技巧)、
 [数据结构（二）](数据结构（二）)、
@@ -32,7 +32,7 @@
 [网络流](网络流)、
 [计算几何](计算几何)
 
-高级：
+* 高级：
 [数论（二）](数论（二）)、
 [博弈论](博弈论)、
 [图论（二）](图论（二）)、
@@ -75,7 +75,7 @@
   - [x] [POJ 3262: Protecting the Flowers](http://poj.org/problem?id=3262)
   
 # 2.3 动态规划
-- 基础动态规划
+- 基础DP
   - [x] [POJ 3176: Cow Bowling](http://poj.org/problem?id=3176)
   - [x] [POJ 2229: Sumsets](http://poj.org/problem?id=2229)
   - [x] [POJ 2385: Apple Catching](http://poj.org/problem?id=2385)
@@ -87,9 +87,9 @@
   - [x] [POJ 3046: Ant Counting](http://poj.org/problem?id=3046)
   - [x] [POJ 3181: Dollar Dayz](http://poj.org/problem?id=3181)
   
-- 进阶动态规划
-  - [ ] [POJ 1065](http://poj.org/problem?id=1065)
-  - [ ] [POJ 1631](http://poj.org/problem?id=1631)
-  - [ ] [POJ 3666](http://poj.org/problem?id=3666)
-  - [ ] [POJ 2392](http://poj.org/problem?id=2392)
-  - [ ] [POJ 2184](http://poj.org/problem?id=2184)
+- 进阶DP
+  - [x] [POJ 1065: Wooden Sticks](http://poj.org/problem?id=1065)
+  - [x] [POJ 1631: Bridging signals](http://poj.org/problem?id=1631)
+  - [ ] [POJ 3666: Making the Grade](http://poj.org/problem?id=3666)
+  - [ ] [POJ 2392: Space Elevator](http://poj.org/problem?id=2392)
+  - [ ] [POJ 2184: Cow Exhibition](http://poj.org/problem?id=2184)
