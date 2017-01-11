@@ -1,4 +1,6 @@
-项目为[《挑战程序设计竞赛（第2版）》](http://www.ituring.com.cn/book/1044)的习题册，含部分详细题解，持续更新。
+项目为[《挑战程序设计竞赛（第2版）》](http://www.ituring.com.cn/book/1044)的习题册，含部分详细题解。
+可配合书籍或笔记作为算法系统学习的题库。
+持续更新，预计2017年3月完成。
 
 # 1.1 习题来源
 - Google Code Jam（[GCJ](https://code.google.com/codejam)）
@@ -55,3 +57,10 @@
   - [x] [POJ 1742: Coins](http://poj.org/problem?id=1742)
   - [x] [POJ 3046: Ant Counting](http://poj.org/problem?id=3046)
   - [x] [POJ 3181: Dollar Dayz](http://poj.org/problem?id=3181)
+  
+- 进阶动态规划
+  - [ ] [POJ 1065](http://poj.org/problem?id=1065)
+  - [ ] [POJ 1631](http://poj.org/problem?id=1631)
+  - [ ] [POJ 3666](http://poj.org/problem?id=3666)
+  - [ ] [POJ 2392](http://poj.org/problem?id=2392)
+  - [ ] [POJ 2184](http://poj.org/problem?id=2184)
