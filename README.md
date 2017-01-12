@@ -1,10 +1,10 @@
 # 1 前言
 
-项目为[《挑战程序设计竞赛（第2版）》](http://www.ituring.com.cn/book/1044)的习题册，含详细题解。
+项目为[《挑战程序设计竞赛（第2版）》](http://www.ituring.com.cn/book/1044)习题册，含详细题解。
 
-* 题量约200道，可配合书籍或笔记系统学习算法。
+* 题量约200道，配合书籍或笔记，系统学习算法。
 * 难度总体高于Leetcode，部分接近ACM地区赛。
-* 代码均AC，题解个人向，Bug或优化烦请建Issue或Pull Request。
+* 代码均AC，题解个人向；Bug或优化请建Issue或Pull Request。
 * _持续更新，预计2017年3月完成。_
 
 # 1.1 题库来源
@@ -14,10 +14,10 @@
 - CodeForces（[CF](http://codeforces.com/)）
 - LeetCode（[LC](https://leetcode.com/)）
 
-# 1.2 算法读书笔记
-- [《挑战程序设计竞赛》初级篇笔记](http://jennica.space/2016/10/14/acm-challenge-easy/)
-- [《挑战程序设计竞赛》中级篇笔记](http://jennica.space/2016/11/16/acm-challenge-medium/)
-- [《挑战程序设计竞赛》高级篇笔记](http://jennica.space/2016/11/30/acm-challenge-hard/)
+# 1.2 算法笔记
+- [初级篇](http://jennica.space/2016/10/14/acm-challenge-easy/)
+- [中级篇](http://jennica.space/2016/11/16/acm-challenge-medium/)
+- [高级篇](http://jennica.space/2016/11/30/acm-challenge-hard/)
 
 # 1.3 题库目录
 
@@ -97,6 +97,6 @@
 - 进阶DP
   - [x] [POJ 1065: Wooden Sticks](http://poj.org/problem?id=1065)
   - [x] [POJ 1631: Bridging signals](http://poj.org/problem?id=1631)
-  - [ ] [POJ 3666: Making the Grade](http://poj.org/problem?id=3666)
-  - [ ] [POJ 2392: Space Elevator](http://poj.org/problem?id=2392)
+  - [x] [POJ 3666: Making the Grade](http://poj.org/problem?id=3666)
+  - [x] [POJ 2392: Space Elevator](http://poj.org/problem?id=2392)
   - [ ] [POJ 2184: Cow Exhibition](http://poj.org/problem?id=2184)
