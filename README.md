@@ -99,4 +99,15 @@
   - [x] [POJ 1631: Bridging signals](http://poj.org/problem?id=1631)
   - [x] [POJ 3666: Making the Grade](http://poj.org/problem?id=3666)
   - [x] [POJ 2392: Space Elevator](http://poj.org/problem?id=2392)
-  - [ ] [POJ 2184: Cow Exhibition](http://poj.org/problem?id=2184)
+  - [x] [POJ 2184: Cow Exhibition](http://poj.org/problem?id=2184)
+  
+# 2.4 数据结构
+- 优先队列
+  - [ ] [POJ 3614:](http://poj.org/problem?id=3014)
+  - [ ] [POJ 2010:](http://poj.org/problem?id=2010)
+  
+- 并查集
+  - [ ] [POJ 2236:](http://poj.org/problem?id=2236)
+  - [ ] [POJ 1703:](http://poj.org/problem?id=1703)
+  - [ ] [AOJ 3614:](http://poj.org/problem?id=2170)
+
