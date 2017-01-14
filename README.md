@@ -103,8 +103,8 @@
   
 # 2.4 数据结构
 - 优先队列
-  - [ ] [POJ 3614:](http://poj.org/problem?id=3014)
-  - [ ] [POJ 2010:](http://poj.org/problem?id=2010)
+  - [x] [POJ 3614: Sunscreen](http://poj.org/problem?id=3614)
+  - [x] [POJ 2010: Moo University - Financial Aid](http://poj.org/problem?id=2010)
   
 - 并查集
   - [ ] [POJ 2236:](http://poj.org/problem?id=2236)
