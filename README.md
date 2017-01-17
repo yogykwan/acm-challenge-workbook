@@ -107,7 +107,21 @@
   - [x] [POJ 2010: Moo University - Financial Aid](http://poj.org/problem?id=2010)
   
 - 并查集
-  - [ ] [POJ 2236:](http://poj.org/problem?id=2236)
-  - [ ] [POJ 1703:](http://poj.org/problem?id=1703)
-  - [ ] [AOJ 3614:](http://poj.org/problem?id=2170)
+  - [x] [POJ 2236: Wireless Network](http://poj.org/problem?id=2236)
+  - [x] [POJ 1703: Find them, Catch them](http://poj.org/problem?id=1703)
+  - [x] [AOJ 2170: Marked Ancestor](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2170)
 
+# 2.5 图论
+- 最段路
+  - [ ] [AOJ 0189: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0189)
+  - [ ] [POJ 2139: ](http://poj.org/problem?id=2139)
+  - [ ] [POJ 3259: ](http://poj.org/problem?id=3259)
+  - [ ] [POJ 3268: ](http://poj.org/problem?id=3268)
+  - [ ] [AOJ 2249: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2249)
+  - [ ] [AOJ 2200: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2200)
+  
+- 最小生成树
+  - [ ] [POJ 1258: ](http://poj.org/problem?id=1258)
+  - [ ] [POJ 2377: ](http://poj.org/problem?id=2377)
+  - [ ] [AOJ 2224: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2224)
+  - [ ] [POJ 2395: ](http://poj.org/problem?id=2395)
