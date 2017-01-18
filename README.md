@@ -112,13 +112,13 @@
   - [x] [AOJ 2170: Marked Ancestor](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2170)
 
 # 2.5 图论
-- 最段路
+- 最短路
   - [x] [AOJ 0189: Convenient Location](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0189)
   - [x] [POJ 2139: Six Degrees of Cowvin Bacon](http://poj.org/problem?id=2139)
-  - [ ] [POJ 3259: ](http://poj.org/problem?id=3259)
-  - [ ] [POJ 3268: ](http://poj.org/problem?id=3268)
-  - [ ] [AOJ 2249: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2249)
-  - [ ] [AOJ 2200: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2200)
+  - [x] [POJ 3259: Wormholes](http://poj.org/problem?id=3259)
+  - [x] [POJ 3268: Silver Cow Party](http://poj.org/problem?id=3268)
+  - [x] [AOJ 2249: Road Construction](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2249)
+  - [x] [AOJ 2200: Mr. Rito Post Office](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2200)
   
 - 最小生成树
   - [ ] [POJ 1258: ](http://poj.org/problem?id=1258)
