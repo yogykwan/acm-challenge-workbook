@@ -121,7 +121,7 @@
   - [x] [AOJ 2200: Mr. Rito Post Office](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2200)
   
 - 最小生成树
-  - [ ] [POJ 1258: ](http://poj.org/problem?id=1258)
-  - [ ] [POJ 2377: ](http://poj.org/problem?id=2377)
-  - [ ] [AOJ 2224: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2224)
-  - [ ] [POJ 2395: ](http://poj.org/problem?id=2395)
+  - [x] [POJ 1258: Agri-Net](http://poj.org/problem?id=1258)
+  - [x] [POJ 2377: Bad Cowtractors](http://poj.org/problem?id=2377)
+  - [x] [AOJ 2224: Save Your Cats](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2224)
+  - [x] [POJ 2395: Out of Hay](http://poj.org/problem?id=2395)
