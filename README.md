@@ -128,16 +128,16 @@
   
 # 2.6 数论
 - 辗转相除法
-  -[ ] [AOJ 0005: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0005)
-  -[ ] [POJ 2429: ](http://poj.org/problem?id=2429)
-  -[ ] [POJ 1930: ](http://poj.org/problem?id=1930)
+  - [ ] [AOJ 0005: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0005)
+  - [ ] [POJ 2429: ](http://poj.org/problem?id=2429)
+  - [ ] [POJ 1930: ](http://poj.org/problem?id=1930)
   
 - 素数
-  -[ ] [AOJ 0009: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0009)
-  -[ ] [POJ 3126: ](http://poj.org/problem?id=3126)
-  -[ ] [POJ 3421: ](http://poj.org/problem?id=3421)
-  -[ ] [POJ 3292: ](http://poj.org/problem?id=3292)
+  - [ ] [AOJ 0009: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0009)
+  - [ ] [POJ 3126: ](http://poj.org/problem?id=3126)
+  - [ ] [POJ 3421: ](http://poj.org/problem?id=3421)
+  - [ ] [POJ 3292: ](http://poj.org/problem?id=3292)
   
 - 快速幂运算
-  -[ ] [POJ 3641: ](http://poj.org/problem?id=3641)
-  -[ ] [POJ 1995: ](http://poj.org/problem?id=1995)
+  - [ ] [POJ 3641: ](http://poj.org/problem?id=3641)
+  - [ ] [POJ 1995: ](http://poj.org/problem?id=1995)
