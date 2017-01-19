@@ -22,11 +22,11 @@
 # 1.3 题库目录
 
 * 初级： 
-[穷竭搜索](#21-穷竭搜索)、
-[贪心法](#22-贪心法)、
-[动态规划](#23-动态规划)、
-[数据结构](#24-数据结构)、
-[图论](#25-图论)、
+[穷竭搜索 √](#21-穷竭搜索)、
+[贪心法 √](#22-贪心法)、
+[动态规划 √](#23-动态规划)、
+[数据结构 √](#24-数据结构)、
+[图论 √](#25-图论)、
 [数论](#26-数论)
 
 * 中级：
@@ -125,3 +125,19 @@
   - [x] [POJ 2377: Bad Cowtractors](http://poj.org/problem?id=2377)
   - [x] [AOJ 2224: Save Your Cats](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2224)
   - [x] [POJ 2395: Out of Hay](http://poj.org/problem?id=2395)
+  
+# 2.6 数论
+- 辗转相除法
+  -[ ] [AOJ 0005: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0005)
+  -[ ] [POJ 2429: ](http://poj.org/problem?id=2429)
+  -[ ] [POJ 1930: ](http://poj.org/problem?id=1930)
+  
+- 素数
+  -[ ] [AOJ 0009: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0009)
+  -[ ] [POJ 3126: ](http://poj.org/problem?id=3126)
+  -[ ] [POJ 3421: ](http://poj.org/problem?id=3421)
+  -[ ] [POJ 3292: ](http://poj.org/problem?id=3292)
+  
+- 快速幂运算
+  -[ ] [POJ 3641: ](http://poj.org/problem?id=3641)
+  -[ ] [POJ 1995: ](http://poj.org/problem?id=1995)
