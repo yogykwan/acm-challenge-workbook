@@ -138,6 +138,6 @@
   - [ ] [POJ 3421: ](http://poj.org/problem?id=3421)
   - [ ] [POJ 3292: ](http://poj.org/problem?id=3292)
   
-- 快速幂运算
-  - [ ] [POJ 3641: ](http://poj.org/problem?id=3641)
-  - [ ] [POJ 1995: ](http://poj.org/problem?id=1995)
+- 快速幂
+  - [x] [POJ 3641: Pseudoprime numbers](http://poj.org/problem?id=3641)
+  - [x] [POJ 1995: Raising Modulo Numbers](http://poj.org/problem?id=1995)
