@@ -150,9 +150,9 @@
   - [x] [POJ 3104: Drying](http://poj.org/problem?id=3104)
   - [x] [POJ 3045: Cow Acrobats](http://poj.org/problem?id=3045)
 
-- 最大化平均值
-  - [ ] [POJ 2976: ](http://poj.org/problem?id=2976)
-  - [ ] [POJ 3111: ](http://poj.org/problem?id=3111)
+- 01分数规划
+  - [x] [POJ 2976: Dropping tests](http://poj.org/problem?id=2976)
+  - [x] [POJ 3111: K Best](http://poj.org/problem?id=3111)
   
 - 第k大值
   - [ ] [POJ 3579: ](http://poj.org/problem?id=3579)
