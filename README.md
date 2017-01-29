@@ -133,10 +133,10 @@
   - [x] [POJ 1930: Dead Fraction](http://poj.org/problem?id=1930)
   
 - 素数
-  - [ ] [AOJ 0009: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0009)
-  - [ ] [POJ 3126: ](http://poj.org/problem?id=3126)
-  - [ ] [POJ 3421: ](http://poj.org/problem?id=3421)
-  - [ ] [POJ 3292: ](http://poj.org/problem?id=3292)
+  - [x] [AOJ 0009: Prime Number](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0009)
+  - [x] [POJ 3126: Prime Path](http://poj.org/problem?id=3126)
+  - [x] [POJ 3421: X-factor Chains](http://poj.org/problem?id=3421)
+  - [x] [POJ 3292: Semi-prime H-numbers](http://poj.org/problem?id=3292)
   
 - 快速幂
   - [x] [POJ 3641: Pseudoprime numbers](http://poj.org/problem?id=3641)
