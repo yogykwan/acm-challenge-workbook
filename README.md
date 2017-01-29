@@ -145,10 +145,10 @@
   
 # 3.1 二分搜索
 - 最大化最小值
-  - [ ] [POJ 3258: ](http://poj.org/problem?id=3258)
-  - [ ] [POJ 3273: ](http://poj.org/problem?id=3273)
-  - [ ] [POJ 3104: ](http://poj.org/problem?id=3104)
-  - [ ] [POJ 3045: ](http://poj.org/problem?id=3045)
+  - [x] [POJ 3258: River Hopscotch](http://poj.org/problem?id=3258)
+  - [x] [POJ 3273: Monthly Expense](http://poj.org/problem?id=3273)
+  - [x] [POJ 3104: Drying](http://poj.org/problem?id=3104)
+  - [x] [POJ 3045: Cow Acrobats](http://poj.org/problem?id=3045)
 
 - 最大化平均值
   - [ ] [POJ 2976: ](http://poj.org/problem?id=2976)
