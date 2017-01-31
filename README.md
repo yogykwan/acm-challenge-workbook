@@ -1,8 +1,8 @@
 # 1 前言
 
-项目为[《挑战程序设计竞赛（第2版）》](http://www.ituring.com.cn/book/1044)习题册，含详细题解。
+项目为[《挑战程序设计竞赛（第2版）》](http://www.ituring.com.cn/book/1044)习题册，配合书籍或笔记，系统学习算法。
 
-* 题量约200道，配合书籍或笔记，系统学习算法。
+* 题量约200道，代码注释内含详解。
 * 难度总体高于Leetcode，部分接近ACM地区赛。
 * 代码均AC，题解个人向；Bug或优化请建Issue或Pull Request。
 * _持续更新，预计2017年3月完成。_
@@ -45,7 +45,6 @@
 [智慧搜索](#45-智慧搜索)、
 [分治](#46-分治)、
 [字符串](#47-字符串)
-
 
 
 # 2 初级算法
@@ -163,5 +162,5 @@
   - [x] [POJ 3662: Telephone Lines](http://poj.org/problem?id=3662)
   
 - 其他二分搜索
-  - [ ] [POJ 1759: ](http://poj.org/problem?id=1759)
-  - [ ] [POJ 3484: ](http://poj.org/problem?id=3484)
+  - [x] [POJ 1759: Garland](http://poj.org/problem?id=1759)
+  - [x] [POJ 3484: Showstopper](http://poj.org/problem?id=3484)
