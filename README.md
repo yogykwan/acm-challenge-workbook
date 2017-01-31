@@ -159,8 +159,8 @@
   - [x] [POJ 3685: Matrix](http://poj.org/problem?id=3685)
   
 - 最小化第k大值
-  - [ ] [POJ 2010: ](http://poj.org/problem?id=2010)
-  - [ ] [POJ 3662: ](http://poj.org/problem?id=3662)
+  - [x] [POJ 2010: Moo University - Financial Aid](http://poj.org/problem?id=2010)
+  - [x] [POJ 3662: Telephone Lines](http://poj.org/problem?id=3662)
   
 - 其他二分搜索
   - [ ] [POJ 1759: ](http://poj.org/problem?id=1759)
