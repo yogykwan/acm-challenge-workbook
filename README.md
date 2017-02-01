@@ -30,7 +30,7 @@
 [数论 √](#26-数论)
 
 * 中级：
-[二分搜索](#31-二分搜索)、
+[二分搜索 √](#31-二分搜索)、
 [常用技巧](#32-常用技巧)、
 [数据结构（二）](#33-数据结构（二）)、
 [动态规划（二）](#34-动态规划（二）)、
@@ -141,7 +141,9 @@
   - [x] [POJ 3641: Pseudoprime numbers](http://poj.org/problem?id=3641)
   - [x] [POJ 1995: Raising Modulo Numbers](http://poj.org/problem?id=1995)
   
-  
+
+# 3 中级算法
+
 # 3.1 二分搜索
 - 最大化最小值
   - [x] [POJ 3258: River Hopscotch](http://poj.org/problem?id=3258)
@@ -164,3 +166,23 @@
 - 其他二分搜索
   - [x] [POJ 1759: Garland](http://poj.org/problem?id=1759)
   - [x] [POJ 3484: Showstopper](http://poj.org/problem?id=3484)
+  
+# 3.2 常用技巧
+- 尺取法
+  - [x] [POJ 2566: Bound Found](http://poj.org/problem?id=2566)
+  - [x] [POJ 2739: Sum of Consecutive Prime Numbers](http://poj.org/problem?id=2739)
+  - [x] [POJ 2100: Graveyard Design](http://poj.org/problem?id=2100)
+
+- 反转
+  - [ ] [POJ 3185: ](http://poj.org/problem?id=3185)
+  - [ ] [POJ 1222: ](http://poj.org/problem?id=1222)
+  
+- 弹性碰撞
+  - [ ] [POJ 2674: ](http://poj.org/problem?id=2674)
+  
+- 折半枚举
+  - [ ] [POJ 3977: ](http://poj.org/problem?id=3977)
+  - [ ] [POJ 2549: ](http://poj.org/problem?id=2549)
+  
+- 离散化
+  - [ ] [AOJ 0531: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0531)
