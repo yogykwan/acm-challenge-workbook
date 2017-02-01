@@ -178,7 +178,7 @@
   - [x] [POJ 1222: EXTENDED LIGHTS OUT](http://poj.org/problem?id=1222)
   
 - 弹性碰撞
-  - [ ] [POJ 2674: ](http://poj.org/problem?id=2674)
+  - [x] [POJ 2674: Linear world](http://poj.org/problem?id=2674)
   
 - 折半枚举
   - [ ] [POJ 3977: ](http://poj.org/problem?id=3977)
