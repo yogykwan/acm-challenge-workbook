@@ -181,8 +181,8 @@
   - [x] [POJ 2674: Linear world](http://poj.org/problem?id=2674)
   
 - 折半枚举
-  - [ ] [POJ 3977: ](http://poj.org/problem?id=3977)
-  - [ ] [POJ 2549: ](http://poj.org/problem?id=2549)
+  - [ ] [POJ 3977: Subset](http://poj.org/problem?id=3977)
+  - [ ] [POJ 2549: Sumsets](http://poj.org/problem?id=2549)
   
 - 离散化
-  - [ ] [AOJ 0531: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0531)
+  - [x] [AOJ 0531: Paint Color](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0531)
