@@ -31,7 +31,7 @@
 
 * 中级：
 [二分搜索 √](#31-二分搜索)、
-[常用技巧](#32-常用技巧)、
+[常用技巧 √](#32-常用技巧)、
 [数据结构（二）](#33-数据结构（二）)、
 [动态规划（二）](#34-动态规划（二）)、
 [网络流](#35-网络流)、
@@ -181,8 +181,8 @@
   - [x] [POJ 2674: Linear world](http://poj.org/problem?id=2674)
   
 - 折半枚举
-  - [ ] [POJ 3977: Subset](http://poj.org/problem?id=3977)
-  - [ ] [POJ 2549: Sumsets](http://poj.org/problem?id=2549)
+  - [x] [POJ 3977: Subset](http://poj.org/problem?id=3977)
+  - [x] [POJ 2549: Sumsets](http://poj.org/problem?id=2549)
   
 - 离散化
   - [x] [AOJ 0531: Paint Color](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0531)
