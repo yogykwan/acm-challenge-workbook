@@ -11,8 +11,7 @@
 - Google Code Jam（[GCJ](https://code.google.com/codejam)）
 - Peking University Online Judge（[POJ](http://poj.org/)）
 - Aizu Online Judge（[AOJ](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp?lang=en)）
-- CodeForces（[CF](http://codeforces.com/)）
-- LeetCode（[LC](https://leetcode.com/)）
+- Uva Online Judge([UVa](https://uva.onlinejudge.org/))
 
 # 1.2 算法笔记
 - [初级篇](http://jennica.space/2016/10/14/acm-challenge-easy/)
@@ -186,3 +185,17 @@
   
 - 离散化
   - [x] [AOJ 0531: Paint Color](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0531)
+  
+# 3.3 数据结构（二）
+- 树状数组
+  - [ ] [POJ 1990: ](http://poj.org/problem?id=1990)
+  - [ ] [POJ 3109: ](http://poj.org/problem?id=3109)
+  - [ ] [POJ 2155: ](http://poj.org/problem?id=2155)
+  - [ ] [POJ 2886: ](http://poj.org/problem?id=2886)
+
+- 线段树和平方分割
+  - [ ] [POJ 3264: ](http://poj.org/problem?id=3264)
+  - [ ] [POJ 3368: ](http://poj.org/problem?id=3368)
+  - [ ] [POJ 3470: ](http://poj.org/problem?id=3470)
+  - [ ] [POJ 1201: ](http://poj.org/problem?id=1201)
+  - [ ] [UVa 11990: "Dynamic" Inversion](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3141)
