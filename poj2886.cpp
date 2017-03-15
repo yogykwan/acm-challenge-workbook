@@ -9,13 +9,102 @@
 #include <cstdio>
 #include <cstring>
 #include <algorithm>
+#include <cstdlib>
 
 using namespace std;
 
+int prime[800];
+bool np[800];
+int cnt_prime;
 
+int factor[500010];
+int mf[500010];
+
+void seive_factor(int n) {
+  int max_factor = 0;
+  fill(factor, factor + n, 1);
+  for (int i  = 2; i < n; ++i) {
+    if (factor[i] == 1) {
+      for (int j = i; j < n; j += i) {
+        int k = 0, t = j;
+        while(t % i == 0) {
+          ++k;
+          t /= i;
+        }
+        factor[j] *= k + 1;
+      }
+    }
+    if (factor[i] > max_factor) {
+      max_factor = factor[i];
+      mf[i] = i;
+    } else {
+      mf[i] = mf[i - 1];
+    }
+  }
+}
+
+int bit[500010];
+int n;
+
+int low_bit(int x) {
+  return x & -x;
+}
+
+void change(int x) {
+  ++x;
+  while (x <= n) {
+    bit[x] += 1;
+    x += low_bit(x);
+  }
+}
+
+int query(int x) {
+  ++x;
+  int ans = 0;
+  while (x) {
+    ans += bit[x];
+    x -= low_bit(x);
+  }
+  return ans;
+}
+
+char name[500010][12];
+int card[500010];
 
 int main() {
-//  freopen("/Users/yogy/acm-challenge-workbook/db.in", "r", stdin);
+  seive_factor(500010); // seive factor as seive prime then caculate factor will TLE
+  int k, move, cnt;
+  while (scanf("%d%d", &n, &k) != EOF) {
+    memset(bit, 0, sizeof(bit));
+    --k;
+    for (int i = 0; i < n; ++i) {
+      scanf("%s%d", name[i], &card[i]);
+    }
+    int des = mf[n];
+    cnt = 1;
+    while (cnt < des) {
+      change(k);
+      int mod = n - cnt;
+      move = k - query(k) + card[k];
+      if (card[k] < 0) move += 1;
+      move = ((move % mod) + mod) % mod;
 
+      int l, r, m;
+      l = -1;
+      r = n - 1;
+      while(l + 1 < r) {
+        m = (l + r) >> 1;
+        int t = m - query(m);
+        if (t >= move) {
+          r = m;
+        } else {
+          l = m;
+        }
+      }
+      k = r;
+      ++cnt;
+    }
+    printf("%s %d\n", name[k], factor[des]);
+  }
   return 0;
 }
