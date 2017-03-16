@@ -11,7 +11,8 @@
 - Google Code Jam（[GCJ](https://code.google.com/codejam)）
 - Peking University Online Judge（[POJ](http://poj.org/)）
 - Aizu Online Judge（[AOJ](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp?lang=en)）
-- Uva Online Judge([UVa](https://uva.onlinejudge.org/))
+- Uva Online Judge（[UVa](https://uva.onlinejudge.org/)）
+- CodeForces（[CF](http://codeforces.com/)）
 
 # 1.2 算法笔记
 - [初级篇](http://jennica.space/2016/10/14/acm-challenge-easy/)
@@ -31,16 +32,16 @@
 * 中级：
 [二分搜索 √](#31-二分搜索)、
 [常用技巧 √](#32-常用技巧)、
-[数据结构（二）](#33-数据结构（二）)、
-[动态规划（二）](#34-动态规划（二）)、
+[数据结构（二）](#33-数据结构二)、
+[动态规划（二）](#34-动态规划二)、
 [网络流](#35-网络流)、
 [计算几何](#36-计算几何)
 
 * 高级：
-[数论（二）](#41-数论（二）)、
+[数论（二）](#41-数论二)、
 [博弈论](#42-博弈论)、
-[图论（二）](#43-图论（二）)、
-[常用技巧（二）](#44-常用技巧（二）)、
+[图论（二）](#43-图论二)、
+[常用技巧（二）](#44-常用技巧二)、
 [智慧搜索](#45-智慧搜索)、
 [分治](#46-分治)、
 [字符串](#47-字符串)
