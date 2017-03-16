@@ -190,7 +190,7 @@
 # 3.3 数据结构（二）
 - 树状数组
   - [x] [POJ 1990: MooFest](http://poj.org/problem?id=1990)
-  - [ ] [POJ 3109: Inner Vertices](http://poj.org/problem?id=3109)
+  - [x] [POJ 3109: Inner Vertices](http://poj.org/problem?id=3109)
   - [x] [POJ 2155: Matrix](http://poj.org/problem?id=2155)
   - [x] [POJ 2886: Who Gets the Most Candies?](http://poj.org/problem?id=2886)
 
