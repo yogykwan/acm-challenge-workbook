@@ -5,13 +5,13 @@
 * 题量约200道，代码注释内含详解。
 * 难度总体高于Leetcode，部分接近ACM地区赛。
 * 代码均AC，题解个人向；Bug或优化请建Issue或Pull Request。
-* _持续更新，预计2017年3月完成。_
+* _持续更新，预计2017年4月完成。_
 
 # 1.1 题库来源
 - Google Code Jam（[GCJ](https://code.google.com/codejam)）
 - Peking University Online Judge（[POJ](http://poj.org/)）
 - Aizu Online Judge（[AOJ](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp?lang=en)）
-- Uva Online Judge（[UVa](https://uva.onlinejudge.org/)）
+- UVa Online Judge（[UVa](https://uva.onlinejudge.org/)）
 - CodeForces（[CF](http://codeforces.com/)）
 
 # 1.2 算法笔记
@@ -32,7 +32,7 @@
 * 中级：
 [二分搜索 √](#31-二分搜索)、
 [常用技巧 √](#32-常用技巧)、
-[数据结构（二）](#33-数据结构二)、
+[数据结构（二）√](#33-数据结构二)、
 [动态规划（二）](#34-动态规划二)、
 [网络流](#35-网络流)、
 [计算几何](#36-计算几何)
@@ -197,6 +197,22 @@
 - 线段树和平方分割
   - [x] [POJ 3264: Balanced Lineup](http://poj.org/problem?id=3264)
   - [x] [POJ 3368: Frequent values](http://poj.org/problem?id=3368)
-  - [ ] [POJ 3470: ](http://poj.org/problem?id=3470)
+  - [x] [POJ 3470: Walls](http://poj.org/problem?id=3470)
   - [x] [POJ 1201: Intervals](http://poj.org/problem?id=1201)
-  - [ ] [UVa 11990: "Dynamic" Inversion](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3141)
+  - [x] [UVa 11990: "Dynamic" Inversion](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3141)
+  
+# 3.4 动态规划（二）
+- 状态压缩DP
+  - [ ] [POJ 2441: ](http://poj.org/problem?id=2441)
+  - [ ] [POJ 3254: ](http://poj.org/problem?id=3254)
+  - [ ] [POJ 2836: ](http://poj.org/problem?id=2836)
+  - [ ] [POJ 1795: ](http://poj.org/problem?id=1795)
+  - [ ] [POJ 3411: ](http://poj.org/problem?id=3411)
+
+- 矩阵的幂
+  - [ ] [POJ 3420: ](http://poj.org/problem?id=3420)
+  - [ ] [POJ 3735: ](http://poj.org/problem?id=3735)
+
+- 数据结构优化DP
+  - [ ] [POJ 3171: ](http://poj.org/problem?id=3171)
+  
