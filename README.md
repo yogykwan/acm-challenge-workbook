@@ -210,8 +210,8 @@
   - [ ] [POJ 3411: ](http://poj.org/problem?id=3411)
 
 - 矩阵的幂
-  - [ ] [POJ 3420: ](http://poj.org/problem?id=3420)
-  - [ ] [POJ 3735: ](http://poj.org/problem?id=3735)
+  - [x] [POJ 3420: Quad Tiling](http://poj.org/problem?id=3420)
+  - [x] [POJ 3735: Training little cats](http://poj.org/problem?id=3735)
 
 - 数据结构与DP
   - [x] [POJ 3171: Cleaning Shifts](http://poj.org/problem?id=3171)
