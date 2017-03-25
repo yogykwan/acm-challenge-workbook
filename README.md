@@ -213,6 +213,6 @@
   - [ ] [POJ 3420: ](http://poj.org/problem?id=3420)
   - [ ] [POJ 3735: ](http://poj.org/problem?id=3735)
 
-- 数据结构优化DP
-  - [ ] [POJ 3171: ](http://poj.org/problem?id=3171)
+- 数据结构与DP
+  - [x] [POJ 3171: Cleaning Shifts](http://poj.org/problem?id=3171)
   
