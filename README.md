@@ -2,10 +2,10 @@
 
 项目为[《挑战程序设计竞赛（第2版）》](http://www.ituring.com.cn/book/1044)习题册，配合书籍或笔记，系统学习算法。
 
-* 题量约200道，代码注释内含详解。
-* 难度总体高于Leetcode，部分接近ACM地区赛。
-* 代码均AC，题解个人向；Bug或优化请建Issue或Pull Request。
-* _持续更新，预计2017年4月完成。_
+* 题量：约200道，代码注释内含详解。
+* 难度：总体高于Leetcode，部分接近ACM地区赛。
+* 题解：代码均AC，题解个人向；Bug或优化请建Issue或Pull Request。
+* 计划：持续更新，预计2017年4月完成。
 
 # 1.1 题库来源
 - Google Code Jam（[GCJ](https://code.google.com/codejam)）
@@ -32,8 +32,8 @@
 * 中级：
 [二分搜索 √](#31-二分搜索)、
 [常用技巧 √](#32-常用技巧)、
-[数据结构（二）√](#33-数据结构二)、
-[动态规划（二）](#34-动态规划二)、
+[数据结构（二） √](#33-数据结构二)、
+[动态规划（二） √](#34-动态规划二)、
 [网络流](#35-网络流)、
 [计算几何](#36-计算几何)
 
@@ -215,4 +215,25 @@
 
 - 数据结构与DP
   - [x] [POJ 3171: Cleaning Shifts](http://poj.org/problem?id=3171)
+  
+# 4.1 数论（二）
+- 模运算
+  - [ ] [POJ 1150: ](http://poj.org/problem?id=1150)
+  - [ ] [POJ 1284: ](http://poj.org/problem?id=1284)
+  - [ ] [POJ 2115: ](http://poj.org/problem?id=2115)
+  - [ ] [POJ 3708: ](http://poj.org/problem?id=3708)
+  - [ ] [POJ 2720: ](http://poj.org/problem?id=2720)
+  - [ ] [GCJ Japan 2011 Final B: ](https://code.google.com/codejam/contest/dashboard?c=1363489#s=p1)
+
+- 矩阵
+  - [ ] [POJ 2345: ](http://poj.org/problem?id=2345)
+  - [ ] [POJ 3532: ](http://poj.org/problem?id=3532)
+  - [ ] [POJ 3526: ](http://poj.org/problem?id=3526)
+  
+- 计数
+  - [ ] [POJ 2407: ](http://poj.org/problem?id=2407)
+  - [ ] [POJ 1286: ](http://poj.org/problem?id=1286)
+  - [ ] [POJ 2409: ](http://poj.org/problem?id=2409)
+  - [ ] [AOJ 2164: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2164)
+  - [ ] [AOJ 2214: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2214)
   
