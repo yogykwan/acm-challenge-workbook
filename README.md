@@ -216,6 +216,41 @@
 - 数据结构与DP
   - [x] [POJ 3171: Cleaning Shifts](http://poj.org/problem?id=3171)
   
+# 3.5 网络流
+- 最大流与最小割
+  - [ ] [POJ 3713: ](http://poj.org/problem?id=)
+  - [ ] [POJ 2987: ](http://poj.org/problem?id=)
+  - [ ] [POJ 2914: ](http://poj.org/problem?id=)
+  - [ ] [POJ 3155: ](http://poj.org/problem?id=)
+  
+- 二分图匹配
+  - [ ] [POJ 1274: ](http://poj.org/problem?id=)
+  - [ ] [POJ 2112: ](http://poj.org/problem?id=)
+  - [ ] [POJ 1486: ](http://poj.org/problem?id=)
+  - [ ] [POJ 1466: ](http://poj.org/problem?id=)
+  - [ ] [POJ 3692: ](http://poj.org/problem?id=)
+  - [ ] [POJ 2724: ](http://poj.org/problem?id=)
+  - [ ] [POJ 2226: ](http://poj.org/problem?id=)
+  - [ ] [AOJ 2251: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2251)
+  
+- 最小费用流
+  - [ ] [POJ 3068: ](http://poj.org/problem?id=)
+  - [ ] [POJ 2195: ](http://poj.org/problem?id=)
+  - [ ] [POJ 3422: ](http://poj.org/problem?id=)
+  - [ ] [AOJ 2266: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2266)
+  - [ ] [AOJ 2230: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2230)
+  
+# 3.6 计算几何
+- 极限
+  - [ ] [POJ 1981: ](http://poj.org/problem?id=)
+  - [ ] [POJ 1418: ](http://poj.org/problem?id=)
+  - [ ] [AOJ 2201: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2201)
+  
+- 平面扫描
+  - [ ] [POJ 3168: ](http://poj.org/problem?id=)
+  - [ ] [POJ 3293: ](http://poj.org/problem?id=)
+  - [ ] [POJ 2482: ](http://poj.org/problem?id=)
+  
 # 4.1 数论（二）
 - 模运算
   - [ ] [POJ 1150: ](http://poj.org/problem?id=1150)
@@ -223,7 +258,7 @@
   - [ ] [POJ 2115: ](http://poj.org/problem?id=2115)
   - [ ] [POJ 3708: ](http://poj.org/problem?id=3708)
   - [ ] [POJ 2720: ](http://poj.org/problem?id=2720)
-  - [ ] [GCJ Japan 2011 Final B: ](https://code.google.com/codejam/contest/dashboard?c=1363489#s=p1)
+  - [ ] [GCJ 2011 Final B: ](https://code.google.com/codejam/contest/dashboard?c=1363489#s=p1)
 
 - 矩阵
   - [ ] [POJ 2345: ](http://poj.org/problem?id=2345)
@@ -237,3 +272,82 @@
   - [ ] [AOJ 2164: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2164)
   - [ ] [AOJ 2214: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2214)
   
+# 4.2 博弈论
+- 博弈DP
+  - [ ] [POJ 1082: ](http://poj.org/problem?id=)
+  - [ ] [POJ 2068: ](http://poj.org/problem?id=)
+  - [ ] [POJ 3688: ](http://poj.org/problem?id=)
+  - [ ] [POJ 1740: ](http://poj.org/problem?id=)
+
+- Nim和Grundy数
+  - [ ] [POJ 2975: ](http://poj.org/problem?id=)
+  - [ ] [POJ 3537: ](http://poj.org/problem?id=)
+  - [ ] [CF 138D: ]()
+  - [ ] [POJ 2315: ](http://poj.org/problem?id=)
+  
+# 4.3 图论（二）
+- 强连通分量
+  - [ ] [POJ 3180: ](http://poj.org/problem?id=)
+  - [ ] [POJ 1236: ](http://poj.org/problem?id=)
+  
+- 2-SAT
+  - [ ] [POJ 3678: ](http://poj.org/problem?id=)
+  - [ ] [POJ 2723: ](http://poj.org/problem?id=)
+  - [ ] [POJ 2749: ](http://poj.org/problem?id=)
+  
+- LCA
+  - [ ] [POJ 1986: ](http://poj.org/problem?id=)
+  - [ ] [POJ 3728: ](http://poj.org/problem?id=)
+
+# 4.4 常用技巧（二）
+- 栈
+  - [ ] [POJ 3250: ](http://poj.org/problem?id=)
+  - [ ] [POJ 2082: ](http://poj.org/problem?id=)
+  - [ ] [POJ 3494: ](http://poj.org/problem?id=)
+  
+- 双端队列
+  - [ ] [POJ 2823: ](http://poj.org/problem?id=)
+  - [ ] [POJ 3260: ](http://poj.org/problem?id=)
+  - [ ] [POJ 1180: ](http://poj.org/problem?id=)
+  - [ ] [AOJ 1070: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1070)
+  
+
+# 4.5 智慧搜索
+- 剪枝
+  - [ ] [POJ 1011: ](http://poj.org/problem?id=)
+  - [ ] [POJ 2046: ](http://poj.org/problem?id=)
+  - [ ] [POJ 3134: ](http://poj.org/problem?id=)
+  
+- A*与IDA*
+  - [ ] [POJ 3523: ](http://poj.org/problem?id=)
+  - [ ] [POJ 2032: ](http://poj.org/problem?id=)
+  - [ ] [UVa 10181: ]()
+
+# 4.6 分治
+- 数列分治
+  - [ ] [POJ 1854: ](http://poj.org/problem?id=)
+
+- 平面分治
+  - [ ] [GCJ 2009 Final B: ]()
+  - [ ] [CF 97B: ]()
+  
+- 树分治
+  - [ ] [POJ 2114: ](http://poj.org/problem?id=)
+  - [ ] [UVa 12161: ]()
+  - [ ] [SPOJ QTREE5: ]()
+  
+# 4.7 字符串
+- 字符串DP
+  - [ ] [AOJ 2212: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2212)
+  - [ ] [CF 86C: ]()
+  
+- 字符串匹配
+  - [ ] [CF 25E: ]()
+  - [ ] [AOJ 1312: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1312)
+
+- 后缀数组
+  - [ ] [POJ 1509: ](http://poj.org/problem?id=)
+  - [ ] [POJ 3415: ](http://poj.org/problem?id=)
+  - [ ] [POJ 3729: ](http://poj.org/problem?id=)
+  - [ ] [AOJ 2292: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2292)
+  - [ ] [CF 123D: ]()
