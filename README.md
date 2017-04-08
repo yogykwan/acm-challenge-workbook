@@ -39,7 +39,7 @@
 
 * 高级：
 [数论（二）](#41-数论二)、
-[博弈论](#42-博弈论)、
+[博弈论 √](#42-博弈论)、
 [图论（二）](#43-图论二)、
 [常用技巧（二）](#44-常用技巧二)、
 [智慧搜索](#45-智慧搜索)、
@@ -274,16 +274,16 @@
   
 # 4.2 博弈论
 - 博弈DP
-  - [ ] [POJ 1082: ](http://poj.org/problem?id=)
-  - [ ] [POJ 2068: ](http://poj.org/problem?id=)
-  - [ ] [POJ 3688: ](http://poj.org/problem?id=)
-  - [ ] [POJ 1740: ](http://poj.org/problem?id=)
+  - [x] [POJ 1082: Calendar Game](http://poj.org/problem?id=1082)
+  - [x] [POJ 2068: Nim](http://poj.org/problem?id=2068)
+  - [x] [POJ 3688: Cheat in the Game](http://poj.org/problem?id=3688)
+  - [x] [POJ 1740: A New Stone Game](http://poj.org/problem?id=1740)
 
 - Nim和Grundy数
-  - [ ] [POJ 2975: ](http://poj.org/problem?id=)
-  - [ ] [POJ 3537: ](http://poj.org/problem?id=)
-  - [ ] [CF 138D: ]()
-  - [ ] [POJ 2315: ](http://poj.org/problem?id=)
+  - [x] [POJ 2975: Nim](http://poj.org/problem?id=2975)
+  - [x] [POJ 3537: Crosses and Crosses](http://poj.org/problem?id=3537)
+  - [x] [CF 138D: World of Darkraft](http://codeforces.com/problemset/problem/138/D)
+  - [x] [POJ 2315: Football Game](http://poj.org/problem?id=2315)
   
 # 4.3 图论（二）
 - 强连通分量
@@ -325,11 +325,11 @@
 
 # 4.6 分治
 - 数列分治
-  - [ ] [POJ 1854: ](http://poj.org/problem?id=)
+  - [x] [POJ 1854: Evil Straw Warts Live](http://poj.org/problem?id=1854)
 
 - 平面分治
   - [ ] [GCJ 2009 Final B: ]()
-  - [ ] [CF 97B: ]()
+  - [x] [CF 97B: Superset](http://codeforces.com/problemset/problem/97/B)
   
 - 树分治
   - [ ] [POJ 2114: ](http://poj.org/problem?id=)
