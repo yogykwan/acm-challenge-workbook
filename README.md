@@ -301,14 +301,14 @@
 
 # 4.4 常用技巧（二）
 - 栈
-  - [ ] [POJ 3250: ](http://poj.org/problem?id=)
-  - [ ] [POJ 2082: ](http://poj.org/problem?id=)
-  - [ ] [POJ 3494: ](http://poj.org/problem?id=)
+  - [x] [POJ 3250: Bad Hair Day](http://poj.org/problem?id=3250)
+  - [x] [POJ 2082: Terrible Sets](http://poj.org/problem?id=2082)
+  - [x] [POJ 3494: Largest Submatrix of All 1’s](http://poj.org/problem?id=3494)
   
 - 双端队列
-  - [ ] [POJ 2823: ](http://poj.org/problem?id=)
-  - [ ] [POJ 3260: ](http://poj.org/problem?id=)
-  - [ ] [POJ 1180: ](http://poj.org/problem?id=)
+  - [ ] [POJ 2823: ](http://poj.org/problem?id=2823)
+  - [ ] [POJ 3260: ](http://poj.org/problem?id=3260)
+  - [ ] [POJ 1180: ](http://poj.org/problem?id=1180)
   - [ ] [AOJ 1070: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1070)
   
 
@@ -332,7 +332,7 @@
   - [x] [CF 97B: Superset](http://codeforces.com/problemset/problem/97/B)
   
 - 树分治
-  - [ ] [POJ 2114: ](http://poj.org/problem?id=)
+  - [x] [POJ 2114: Boatherds](http://poj.org/problem?id=2114)
   - [ ] [UVa 12161: ]()
   - [ ] [SPOJ QTREE5: ]()
   
