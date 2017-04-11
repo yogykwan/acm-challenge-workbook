@@ -306,10 +306,10 @@
   - [x] [POJ 3494: Largest Submatrix of All 1’s](http://poj.org/problem?id=3494)
   
 - 双端队列
-  - [ ] [POJ 2823: ](http://poj.org/problem?id=2823)
-  - [ ] [POJ 3260: ](http://poj.org/problem?id=3260)
-  - [ ] [POJ 1180: ](http://poj.org/problem?id=1180)
-  - [ ] [AOJ 1070: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1070)
+  - [x] [POJ 2823: Sliding Window](http://poj.org/problem?id=2823)
+  - [x] [POJ 3260: The Fewest Coins](http://poj.org/problem?id=3260)
+  - [x] [POJ 1180: Batch Scheduling](http://poj.org/problem?id=1180)
+  - [ ] [AOJ 1070: FIMO sequence](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1070)
   
 
 # 4.5 智慧搜索
@@ -332,14 +332,14 @@
   - [x] [CF 97B: Superset](http://codeforces.com/problemset/problem/97/B)
   
 - 树分治
-  - [x] [POJ 2114: Boatherds](http://poj.org/problem?id=2114)
+  - [ ] [POJ 2114: Boatherds](http://poj.org/problem?id=2114)
   - [ ] [UVa 12161: ]()
   - [ ] [SPOJ QTREE5: ]()
   
 # 4.7 字符串
 - 字符串DP
   - [ ] [AOJ 2212: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2212)
-  - [ ] [CF 86C: ]()
+  - [ ] [CF 86C: ](http://codeforces.com/problemset/problem/86/C)
   
 - 字符串匹配
   - [ ] [CF 25E: ]()
