@@ -9,6 +9,7 @@
 #include <cstdio>
 #include <iostream>
 #include <string>
+#include <cstring>
 
 using namespace std;
 
@@ -18,42 +19,40 @@ int one[10001], _one[10001];
 int ans;
 
 void solve() {
-    ans = 0;
-    memset(one, 0, sizeof(one));
-    for(int i = 0; i < m; ++i) {
-        for(int j = 0; j < n; ++j) {
-            cin >> mat[i][j];
-            one[j] += mat[i][j];
-        }
+  ans = 0;
+  memset(one, 0, sizeof(one));
+  for (int i = 0; i < m; ++i) {
+    for (int j = 0; j < n; ++j) {
+      cin >> mat[i][j];
+      one[j] += mat[i][j];
     }
-    for(int no = (1 << m) -1; no >= 0; --no) {
-        int _no = no;
-        for(int i = 0; i < n; ++i) {
-            _one[i] = one[i];
-        }
-        for(int i = 0; i < m; ++i) {
-            if(_no & 1){
-                for(int j = 0; j < n; ++j) {
-                    _one[j] += mat[i][j] ? -1 : 1;
-                }
-            }
-            _no >>= 1;
-        }
-        int tmp = 0;
-        for(int i = 0; i < n; ++i) {
-            tmp += max(_one[i], m - _one[i]);
-        }
-        ans = max(ans, tmp);
+  }
+  for (int no = (1 << m) - 1; no >= 0; --no) {
+    int _no = no;
+    for (int i = 0; i < n; ++i) {
+      _one[i] = one[i];
     }
+    for (int i = 0; i < m; ++i) {
+      if (_no & 1) {
+        for (int j = 0; j < n; ++j) {
+          _one[j] += mat[i][j] ? -1 : 1;
+        }
+      }
+      _no >>= 1;
+    }
+    int tmp = 0;
+    for (int i = 0; i < n; ++i) {
+      tmp += max(_one[i], m - _one[i]);
+    }
+    ans = max(ans, tmp);
+  }
 
 }
 
 int main() {
-    while(cin >> m >> n && m > 0 && n > 0) {
-        solve();
-        cout << ans << endl;
-    }
-    return 0;
+  while (cin >> m >> n && m > 0 && n > 0) {
+    solve();
+    cout << ans << endl;
+  }
+  return 0;
 }
-
-

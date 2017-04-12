@@ -78,5 +78,5 @@ int main() {
         solve();
         cout << ans << endl;
     }
-    return 1;
+    return 0;
 }

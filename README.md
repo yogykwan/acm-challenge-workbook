@@ -41,7 +41,7 @@
 [数论（二）](#41-数论二)、
 [博弈论 √](#42-博弈论)、
 [图论（二）](#43-图论二)、
-[常用技巧（二）](#44-常用技巧二)、
+[常用技巧（二） √](#44-常用技巧二)、
 [智慧搜索](#45-智慧搜索)、
 [分治](#46-分治)、
 [字符串](#47-字符串)
@@ -309,7 +309,7 @@
   - [x] [POJ 2823: Sliding Window](http://poj.org/problem?id=2823)
   - [x] [POJ 3260: The Fewest Coins](http://poj.org/problem?id=3260)
   - [x] [POJ 1180: Batch Scheduling](http://poj.org/problem?id=1180)
-  - [ ] [AOJ 1070: FIMO sequence](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1070)
+  - [x] [AOJ 1070: FIMO sequence](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1070)
   
 
 # 4.5 智慧搜索

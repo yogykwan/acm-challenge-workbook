@@ -5,24 +5,24 @@
  * 算法：先用Floyd预处理出单独走水路s或陆路l的两两之间的最短路。d[i][j]表示到序列第i点时船停在j。状态转移：人从a到b，船从c到d，若船动加上l[a,c]+s[c,d]+l[d,b]，若船不动则只要加上l[a][b]。
  */
 
-#include <iostream>
+
 #include <cstdio>
 #include <cstring>
+#include <algorithm>
 
 using namespace std;
 
 int s[210][210];
 int l[210][210];
-int q[210][210];
 int d[1010][210];
 int b[1010];
 
-const int INF = 0x7ffffff;
+const int INF = 0x3f3f3f3f;
 
 void Floyd(int n) {
-  for(int i = 1; i <= n; ++i) {
-    for(int j = 1; j <= n; ++j) {
-      for(int k = 1; k <= n; ++k) {
+  for (int k = 1; k <= n; ++k) {
+    for (int i = 1; i <= n; ++i) {
+      for (int j = 1; j <= n; ++j) {
         s[i][j] = min(s[i][j], s[i][k] + s[k][j]);
         l[i][j] = min(l[i][j], l[i][k] + l[k][j]);
       }
@@ -35,15 +35,14 @@ int main() {
   int u, v, c;
   char tp[3];
 
-  while(scanf("%d%d", &n, &m) != EOF && n) {
+  while (scanf("%d%d", &n, &m) != EOF && n) {
     memset(s, 0x3f, sizeof(s));
     memset(l, 0x3f, sizeof(l));
     memset(d, 0x3f, sizeof(d));
-    memset(q, 0x3f, sizeof(q));
 
-    while(m--) {
+    while (m--) {
       scanf("%d%d%d%s", &u, &v, &c, tp);
-      if(tp[0] == 'L') {
+      if (tp[0] == 'L') {
         l[u][v] = min(l[u][v], c);
         l[v][u] = min(l[v][u], c);
       } else {
@@ -52,41 +51,35 @@ int main() {
       }
     }
 
-    for(int i = 1; i <= n; ++i) {
+    for (int i = 1; i <= n; ++i) {
       l[i][i] = 0;
       s[i][i] = 0;
     }
 
     scanf("%d", &r);
-    b[0] = 1;
-    for(int i = 1; i <= r; ++i) {
+
+    for (int i = 1; i <= r; ++i) {
       scanf("%d", &b[i]);
     }
 
     Floyd(n);
 
-    for(int i = 1; i <= n; ++i) {
-      for (int j = 1; j <= n; ++j) {
-        if(s[i][j] < INF && l[i][j] < INF) {
-          q[i][j] = s[i][j] + l[i][j];
-        }
-      }
+    for (int i = 1; i <= n; ++i) {
+      d[1][i] = min(d[1][i], s[b[1]][i] + l[i][b[1]]);
     }
 
-    d[0][1] = 0;
-
-    for(int i = 1; i <= r; ++i) {
-      for(int j = 1; j <= n; ++j) {
-        if(l[j][b[i]] >= INF) continue;
-        for(int k = 1; k <= n; ++k) {
-          if(d[i-1][k] >= INF) continue;
-          if(j == k){
-            if(l[b[i-1]][b[i]] < INF) {
-              d[i][j] = min(d[i][j], d[i-1][k] + l[b[i-1]][b[i]]);
+    for (int i = 1; i <= r; ++i) {
+      for (int j = 1; j <= n; ++j) {
+        if (l[j][b[i]] >= INF) continue;
+        for (int k = 1; k <= n; ++k) {
+          if (d[i - 1][k] >= INF) continue;
+          if (j == k) {
+            if (l[b[i - 1]][b[i]] < INF) {
+              d[i][j] = min(d[i][j], d[i - 1][k] + l[b[i - 1]][b[i]]);
             }
-          } else{
-            if(l[b[i-1]][k] < INF && s[k][j] < INF) {
-              d[i][j] = min(d[i][j], d[i-1][k] + l[b[i-1]][k] + s[k][j] + l[j][b[i]]);
+          } else {
+            if (l[b[i - 1]][k] < INF && s[k][j] < INF && l[j][b[i]] < INF) {
+              d[i][j] = min(d[i][j], d[i - 1][k] + l[b[i - 1]][k] + s[k][j] + l[j][b[i]]);
             }
           }
         }
@@ -94,7 +87,7 @@ int main() {
     }
 
     int ans = INF;
-    for(int j = 1; j <= n; ++j) {
+    for (int j = 1; j <= n; ++j) {
       ans = min(ans, d[r][j]);
     }
     printf("%d\n", ans);

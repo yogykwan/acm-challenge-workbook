@@ -17,35 +17,36 @@ int m, n;
 int ans;
 
 void dfs(int x, int y) {
-    char t = mat[x][y];
-    mat[x][y] = '.';
-    for(int i = 0; i < 4; ++i) {
-        int xx = x + dx[i];
-        int yy = y + dy[i];
-        if(xx >= 0 && xx < m && yy >= 0 && yy < n && mat[xx][yy] == t) {
-            dfs(xx, yy);
-        }
+  char t = mat[x][y];
+  mat[x][y] = '.';
+  for (int i = 0; i < 4; ++i) {
+    int xx = x + dx[i];
+    int yy = y + dy[i];
+    if (xx >= 0 && xx < m && yy >= 0 && yy < n && mat[xx][yy] == t) {
+      dfs(xx, yy);
     }
+  }
 }
 
 void solve() {
-    for(int i = 0; i < m; ++i) {
-        cin >> mat[i];
+  ans = 0;
+  for (int i = 0; i < m; ++i) {
+    cin >> mat[i];
+  }
+  for (int i = 0; i < m; ++i) {
+    for (int j = 0; j < n; ++j) {
+      if (mat[i][j] != '.') {
+        ++ans;
+        dfs(i, j);
+      }
     }
-    for(int i = 0; i < m; ++i) {
-        for(int j = 0; j < n; ++j) {
-            if(mat[i][j] != '.') {
-                ++ans;
-                dfs(i, j);
-            }
-        }
-    }
+  }
 }
 
 int main() {
-    while(cin >> m >> n && n > 0 && m > 0) {
-        solve();
-        cout << ans << endl;
-    }
-    return 1;
+  while (cin >> m >> n && n > 0 && m > 0) {
+    solve();
+    cout << ans << endl;
+  }
+  return 0;
 }

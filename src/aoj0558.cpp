@@ -8,6 +8,7 @@
 #include <cstdio>
 #include <iostream>
 #include <queue>
+#include <cstring>
 
 using namespace std;
 
@@ -22,55 +23,55 @@ int dy[4] = {0, 1, 0, -1};
 int ans;
 
 int bfs(int sx, int sy, int tx, int ty) {
-    memset(d, -1, sizeof(d));
-    d[sx][sy] = 0;
-    queue <pii> q;
-    q.push(make_pair(sx, sy));
-    int x, y, xx, yy;
-    while(!q.empty()) {
-        pii cur = q.front();
-        q.pop();
-        x = cur.first;
-        y = cur.second;
-        for(int i = 0; i < 4; ++i) {
-            xx = x + dx[i];
-            yy = y + dy[i];
-            if(xx >= 0 && xx < m && yy >= 0 && yy < n && mat[xx][yy] != 'X' && d[xx][yy] == -1) {
-                d[xx][yy] = d[x][y] + 1;
-                if(xx == tx && yy == ty){
-                    return d[xx][yy];
-                }
-                q.push(make_pair(xx, yy));
-            }
+  memset(d, -1, sizeof(d));
+  d[sx][sy] = 0;
+  queue<pii> q;
+  q.push(make_pair(sx, sy));
+  int x, y, xx, yy;
+  while (!q.empty()) {
+    pii cur = q.front();
+    q.pop();
+    x = cur.first;
+    y = cur.second;
+    for (int i = 0; i < 4; ++i) {
+      xx = x + dx[i];
+      yy = y + dy[i];
+      if (xx >= 0 && xx < m && yy >= 0 && yy < n && mat[xx][yy] != 'X' && d[xx][yy] == -1) {
+        d[xx][yy] = d[x][y] + 1;
+        if (xx == tx && yy == ty) {
+          return d[xx][yy];
         }
+        q.push(make_pair(xx, yy));
+      }
     }
+  }
 
 }
 
 void solve() {
-    ans = 0;
-    for(int i = 0; i < m; ++i) {
-        cin >> mat[i];
-        for(int j = 0; j < n; ++j) {
-            if(mat[i][j] == 'S') {
-                sx[0] = i;
-                sy[0]= j;
-            }else if(mat[i][j] >= '1' && mat[i][j] <= '9'){
-                int t = mat[i][j] - '0';
-                sx[t] = i;
-                sy[t] = j;
-            }
-        }
+  ans = 0;
+  for (int i = 0; i < m; ++i) {
+    cin >> mat[i];
+    for (int j = 0; j < n; ++j) {
+      if (mat[i][j] == 'S') {
+        sx[0] = i;
+        sy[0] = j;
+      } else if (mat[i][j] >= '1' && mat[i][j] <= '9') {
+        int t = mat[i][j] - '0';
+        sx[t] = i;
+        sy[t] = j;
+      }
     }
-    for(int i = 1; i <= N; ++i){
-        int tmp = bfs(sx[i - 1], sy[i - 1], sx[i], sy[i]);
-        ans += tmp;
-    }
+  }
+  for (int i = 1; i <= N; ++i) {
+    int tmp = bfs(sx[i - 1], sy[i - 1], sx[i], sy[i]);
+    ans += tmp;
+  }
 }
 
 int main() {
-    cin >> m >> n >> N;
-    solve();
-    cout << ans << endl;
-    return 1;
+  cin >> m >> n >> N;
+  solve();
+  cout << ans << endl;
+  return 0;
 }
