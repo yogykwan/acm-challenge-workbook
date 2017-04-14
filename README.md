@@ -322,6 +322,7 @@
   - [ ] [POJ 3523: ](http://poj.org/problem?id=)
   - [ ] [POJ 2032: ](http://poj.org/problem?id=)
   - [ ] [UVa 10181: ]()
+  
 
 # 4.6 分治
 - 数列分治
@@ -338,8 +339,8 @@
   
 # 4.7 字符串
 - 字符串DP
-  - [ ] [AOJ 2212: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2212)
-  - [ ] [CF 86C: ](http://codeforces.com/problemset/problem/86/C)
+  - [x] [AOJ 2212: Stolen Jewel](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2212)
+  - [x] [CF 86C: Genetic Engineering](http://codeforces.com/problemset/problem/86/C)
   
 - 字符串匹配
   - [ ] [CF 25E: ]()
