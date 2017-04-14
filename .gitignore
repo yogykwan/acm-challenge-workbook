@@ -2,3 +2,5 @@
 cmake-build-debug/
 CMakeLists.txt
 *.in
+*.out
+src/test.cpp

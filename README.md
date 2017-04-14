@@ -329,7 +329,7 @@
   - [x] [POJ 1854: Evil Straw Warts Live](http://poj.org/problem?id=1854)
 
 - 平面分治
-  - [ ] [GCJ 2009 Final B: ]()
+  - [x] [GCJ 2009 Final B: Min Perimeter](https://code.google.com/codejam/contest/dashboard?c=311101#s=p1)
   - [x] [CF 97B: Superset](http://codeforces.com/problemset/problem/97/B)
   
 - 树分治
