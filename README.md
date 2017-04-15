@@ -296,8 +296,8 @@
   - [ ] [POJ 2749: ](http://poj.org/problem?id=)
   
 - LCA
-  - [ ] [POJ 1986: ](http://poj.org/problem?id=)
-  - [ ] [POJ 3728: ](http://poj.org/problem?id=)
+  - [x] [POJ 1986: Distance Queries](http://poj.org/problem?id=1986)
+  - [x] [POJ 3728: The merchant](http://poj.org/problem?id=3728)
 
 # 4.4 常用技巧（二）
 - 栈
