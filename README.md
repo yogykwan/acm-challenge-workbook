@@ -43,7 +43,7 @@
 [图论（二）](#43-图论二)、
 [常用技巧（二） √](#44-常用技巧二)、
 [智慧搜索](#45-智慧搜索)、
-[分治](#46-分治)、
+[分治 √](#46-分治)、
 [字符串](#47-字符串)
 
 
@@ -333,9 +333,9 @@
   - [x] [CF 97B: Superset](http://codeforces.com/problemset/problem/97/B)
   
 - 树分治
-  - [ ] [POJ 2114: Boatherds](http://poj.org/problem?id=2114)
-  - [ ] [UVa 12161: ]()
-  - [ ] [SPOJ QTREE5: ]()
+  - [x] [POJ 2114: Boatherds](http://poj.org/problem?id=2114)
+  - [x] [UVa 12161: Ironman Race in Treeland](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=243&problem=3313)
+  - [x] [SPOJ 2939: Query on a tree V](http://www.spoj.com/problems/QTREE5/)
   
 # 4.7 字符串
 - 字符串DP
