@@ -343,8 +343,8 @@
   - [x] [CF 86C: Genetic Engineering](http://codeforces.com/problemset/problem/86/C)
   
 - 字符串匹配
-  - [ ] [CF 25E: ]()
-  - [ ] [AOJ 1312: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1312)
+  - [x] [CF 25E: Test](http://codeforces.com/problemset/problem/25/E)
+  - [x] [AOJ 1312: Where's Wally](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1312)
 
 - 后缀数组
   - [ ] [POJ 1509: ](http://poj.org/problem?id=)
