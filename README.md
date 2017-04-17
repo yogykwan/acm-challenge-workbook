@@ -3,7 +3,7 @@
 项目为[《挑战程序设计竞赛（第2版）》](http://www.ituring.com.cn/book/1044)习题册，配合书籍或笔记，系统学习算法。
 
 * 题量：约200道，代码注释内含详解。
-* 难度：总体高于Leetcode，部分接近ACM地区赛。
+* 难度：总体高于Leetcode，部分接近ACM。
 * 题解：代码均AC，题解个人向；Bug或优化请建Issue或Pull Request。
 * 计划：持续更新，预计2017年4月完成。
 
@@ -253,9 +253,9 @@
   
 # 4.1 数论（二）
 - 模运算
-  - [ ] [POJ 1150: ](http://poj.org/problem?id=1150)
-  - [ ] [POJ 1284: ](http://poj.org/problem?id=1284)
-  - [ ] [POJ 2115: ](http://poj.org/problem?id=2115)
+  - [x] [POJ 1150: The Last Non-zero Digit](http://poj.org/problem?id=1150)
+  - [x] [POJ 1284: Primitive Roots](http://poj.org/problem?id=1284)
+  - [x] [POJ 2115: C Looooops](http://poj.org/problem?id=2115)
   - [ ] [POJ 3708: ](http://poj.org/problem?id=3708)
   - [ ] [POJ 2720: ](http://poj.org/problem?id=2720)
   - [ ] [GCJ 2011 Final B: ](https://code.google.com/codejam/contest/dashboard?c=1363489#s=p1)
@@ -266,9 +266,9 @@
   - [ ] [POJ 3526: ](http://poj.org/problem?id=3526)
   
 - 计数
-  - [ ] [POJ 2407: ](http://poj.org/problem?id=2407)
-  - [ ] [POJ 1286: ](http://poj.org/problem?id=1286)
-  - [ ] [POJ 2409: ](http://poj.org/problem?id=2409)
+  - [x] [POJ 2407: Relatives](http://poj.org/problem?id=2407)
+  - [x] [POJ 1286: Necklace of Beads](http://poj.org/problem?id=1286)
+  - [x] [POJ 2409: Let it Bead](http://poj.org/problem?id=2409)
   - [ ] [AOJ 2164: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2164)
   - [ ] [AOJ 2214: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2214)
   
@@ -318,7 +318,7 @@
   - [ ] [POJ 2046: ](http://poj.org/problem?id=)
   - [ ] [POJ 3134: ](http://poj.org/problem?id=)
   
-- A*与IDA*
+- A\*与IDA\*
   - [ ] [POJ 3523: ](http://poj.org/problem?id=)
   - [ ] [POJ 2032: ](http://poj.org/problem?id=)
   - [ ] [UVa 10181: ]()
