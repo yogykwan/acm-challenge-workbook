@@ -314,13 +314,13 @@
 
 # 4.5 智慧搜索
 - 剪枝
-  - [ ] [POJ 1011: ](http://poj.org/problem?id=)
-  - [ ] [POJ 2046: ](http://poj.org/problem?id=)
-  - [ ] [POJ 3134: ](http://poj.org/problem?id=)
+  - [x] [POJ 1011: Sticks](http://poj.org/problem?id=1011)
+  - [ ] [POJ 2046: ](http://poj.org/problem?id=2046)
+  - [ ] [POJ 3134: ](http://poj.org/problem?id=3134)
   
 - A\*与IDA\*
-  - [ ] [POJ 3523: ](http://poj.org/problem?id=)
-  - [ ] [POJ 2032: ](http://poj.org/problem?id=)
+  - [ ] [POJ 3523: ](http://poj.org/problem?id=3523)
+  - [ ] [POJ 2032: ](http://poj.org/problem?id=2032)
   - [ ] [UVa 10181: ]()
   
 
