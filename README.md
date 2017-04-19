@@ -269,8 +269,8 @@
   - [x] [POJ 2407: Relatives](http://poj.org/problem?id=2407)
   - [x] [POJ 1286: Necklace of Beads](http://poj.org/problem?id=1286)
   - [x] [POJ 2409: Let it Bead](http://poj.org/problem?id=2409)
-  - [ ] [AOJ 2164: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2164)
-  - [ ] [AOJ 2214: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2214)
+  - [x] [AOJ 2164: Revenge of the Round Table](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2164)
+  - [x] [AOJ 2214: Warp Hall](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2214)
   
 # 4.2 博弈论
 - 博弈DP
