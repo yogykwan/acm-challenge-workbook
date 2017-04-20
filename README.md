@@ -287,8 +287,8 @@
   
 # 4.3 图论（二）
 - 强连通分量
-  - [ ] [POJ 3180: ](http://poj.org/problem?id=)
-  - [ ] [POJ 1236: ](http://poj.org/problem?id=)
+  - [ ] [POJ 3180: The Cow Prom](http://poj.org/problem?id=)
+  - [ ] [POJ 1236: Network of Schools](http://poj.org/problem?id=)
   
 - 2-SAT
   - [ ] [POJ 3678: ](http://poj.org/problem?id=)
@@ -315,8 +315,8 @@
 # 4.5 智慧搜索
 - 剪枝
   - [x] [POJ 1011: Sticks](http://poj.org/problem?id=1011)
-  - [ ] [POJ 2046: ](http://poj.org/problem?id=2046)
-  - [ ] [POJ 3134: ](http://poj.org/problem?id=3134)
+  - [x] [POJ 2046: Gap](http://poj.org/problem?id=2046)
+  - [x] [POJ 3134: Power Calculus](http://poj.org/problem?id=3134)
   
 - A\*与IDA\*
   - [ ] [POJ 3523: ](http://poj.org/problem?id=3523)
