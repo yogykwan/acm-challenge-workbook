@@ -256,8 +256,8 @@
   - [x] [POJ 1150: The Last Non-zero Digit](http://poj.org/problem?id=1150)
   - [x] [POJ 1284: Primitive Roots](http://poj.org/problem?id=1284)
   - [x] [POJ 2115: C Looooops](http://poj.org/problem?id=2115)
-  - [ ] [POJ 3708: ](http://poj.org/problem?id=3708)
-  - [ ] [POJ 2720: ](http://poj.org/problem?id=2720)
+  - [x] [POJ 3708: Recurrent Function](http://poj.org/problem?id=3708)
+  - [x] [POJ 2720: Last Digits](http://poj.org/problem?id=2720)
   - [ ] [GCJ 2011 Final B: ](https://code.google.com/codejam/contest/dashboard?c=1363489#s=p1)
 
 - 矩阵
