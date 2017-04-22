@@ -261,9 +261,9 @@
   - [ ] [GCJ 2011 Final B: ](https://code.google.com/codejam/contest/dashboard?c=1363489#s=p1)
 
 - 矩阵
-  - [ ] [POJ 2345: ](http://poj.org/problem?id=2345)
-  - [ ] [POJ 3532: ](http://poj.org/problem?id=3532)
-  - [ ] [POJ 3526: ](http://poj.org/problem?id=3526)
+  - [x] [POJ 2345: Central heating](http://poj.org/problem?id=2345)
+  - [x] [POJ 3532: Resistance](http://poj.org/problem?id=3532)
+  - [x] [POJ 3526: The Teacher’s Side of Math](http://poj.org/problem?id=3526)
   
 - 计数
   - [x] [POJ 2407: Relatives](http://poj.org/problem?id=2407)
