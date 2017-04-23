@@ -38,7 +38,7 @@
 [计算几何](#36-计算几何)
 
 * 高级：
-[数论（二）](#41-数论二)、
+[数论（二） √](#41-数论二)、
 [博弈论 √](#42-博弈论)、
 [图论（二）](#43-图论二)、
 [常用技巧（二） √](#44-常用技巧二)、
@@ -258,7 +258,7 @@
   - [x] [POJ 2115: C Looooops](http://poj.org/problem?id=2115)
   - [x] [POJ 3708: Recurrent Function](http://poj.org/problem?id=3708)
   - [x] [POJ 2720: Last Digits](http://poj.org/problem?id=2720)
-  - [ ] [GCJ 2011 Final B: ](https://code.google.com/codejam/contest/dashboard?c=1363489#s=p1)
+  - [x] [GCJ 2011 Final B: Bacterial Reproduction](https://code.google.com/codejam/contest/dashboard?c=1363489#s=p1)
 
 - 矩阵
   - [x] [POJ 2345: Central heating](http://poj.org/problem?id=2345)
