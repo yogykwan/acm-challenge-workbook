@@ -141,7 +141,6 @@
   - [x] [POJ 3641: Pseudoprime numbers](http://poj.org/problem?id=3641)
   - [x] [POJ 1995: Raising Modulo Numbers](http://poj.org/problem?id=1995)
   
-
 # 3 中级算法
 
 # 3.1 二分搜索
@@ -287,8 +286,8 @@
   
 # 4.3 图论（二）
 - 强连通分量
-  - [ ] [POJ 3180: The Cow Prom](http://poj.org/problem?id=)
-  - [ ] [POJ 1236: Network of Schools](http://poj.org/problem?id=)
+  - [x] [POJ 3180: The Cow Prom](http://poj.org/problem?id=3180)
+  - [x] [POJ 1236: Network of Schools](http://poj.org/problem?id=1236)
   
 - 2-SAT
   - [ ] [POJ 3678: ](http://poj.org/problem?id=)
