@@ -40,7 +40,7 @@
 * 高级：
 [数论（二） √](#41-数论二)、
 [博弈论 √](#42-博弈论)、
-[图论（二）](#43-图论二)、
+[图论（二） √](#43-图论二)、
 [常用技巧（二） √](#44-常用技巧二)、
 [智慧搜索](#45-智慧搜索)、
 [分治 √](#46-分治)、
@@ -290,9 +290,9 @@
   - [x] [POJ 1236: Network of Schools](http://poj.org/problem?id=1236)
   
 - 2-SAT
-  - [ ] [POJ 3678: ](http://poj.org/problem?id=)
-  - [ ] [POJ 2723: ](http://poj.org/problem?id=)
-  - [ ] [POJ 2749: ](http://poj.org/problem?id=)
+  - [x] [POJ 3678: Katu Puzzle](http://poj.org/problem?id=3678)
+  - [x] [POJ 2723: Get Luffy Out](http://poj.org/problem?id=2723)
+  - [x] [POJ 2749: Building roads](http://poj.org/problem?id=2749)
   
 - LCA
   - [x] [POJ 1986: Distance Queries](http://poj.org/problem?id=1986)
