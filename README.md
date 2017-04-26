@@ -42,10 +42,9 @@
 [博弈论 √](#42-博弈论)、
 [图论（二） √](#43-图论二)、
 [常用技巧（二） √](#44-常用技巧二)、
-[智慧搜索](#45-智慧搜索)、
+[智慧搜索 √](#45-智慧搜索)、
 [分治 √](#46-分治)、
 [字符串](#47-字符串)
-
 
 # 2 初级算法
 
@@ -309,7 +308,6 @@
   - [x] [POJ 3260: The Fewest Coins](http://poj.org/problem?id=3260)
   - [x] [POJ 1180: Batch Scheduling](http://poj.org/problem?id=1180)
   - [x] [AOJ 1070: FIMO sequence](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1070)
-  
 
 # 4.5 智慧搜索
 - 剪枝
@@ -318,10 +316,9 @@
   - [x] [POJ 3134: Power Calculus](http://poj.org/problem?id=3134)
   
 - A\*与IDA\*
-  - [ ] [POJ 3523: ](http://poj.org/problem?id=3523)
-  - [ ] [POJ 2032: ](http://poj.org/problem?id=2032)
-  - [ ] [UVa 10181: ]()
-  
+  - [x] [POJ 3523: The Morning after Halloween](http://poj.org/problem?id=3523)
+  - [x] [POJ 2032: Square Carpets](http://poj.org/problem?id=2032)
+  - [x] [UVa 10181: 15-Puzzle Problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=13&page=show_problem&problem=1122)
 
 # 4.6 分治
 - 数列分治
