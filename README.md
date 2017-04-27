@@ -240,9 +240,9 @@
   
 # 3.6 计算几何
 - 极限
-  - [ ] [POJ 1981: ](http://poj.org/problem?id=)
-  - [ ] [POJ 1418: ](http://poj.org/problem?id=)
-  - [ ] [AOJ 2201: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2201)
+  - [x] [POJ 1981: Circle and Points](http://poj.org/problem?id=1981)
+  - [x] [POJ 1418: Viva Confetti](http://poj.org/problem?id=1418)
+  - [x] [AOJ 2201: Immortal Jewels](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2201)
   
 - 平面扫描
   - [ ] [POJ 3168: ](http://poj.org/problem?id=)
