@@ -35,7 +35,7 @@
 [数据结构（二） √](#33-数据结构二)、
 [动态规划（二） √](#34-动态规划二)、
 [网络流](#35-网络流)、
-[计算几何](#36-计算几何)
+[计算几何 √](#36-计算几何)
 
 * 高级：
 [数论（二） √](#41-数论二)、
@@ -245,9 +245,9 @@
   - [x] [AOJ 2201: Immortal Jewels](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2201)
   
 - 平面扫描
-  - [ ] [POJ 3168: ](http://poj.org/problem?id=)
-  - [ ] [POJ 3293: ](http://poj.org/problem?id=)
-  - [ ] [POJ 2482: ](http://poj.org/problem?id=)
+  - [x] [POJ 3168: Barn Expansion](http://poj.org/problem?id=3168)
+  - [x] [POJ 3293: Rectilinear polygon](http://poj.org/problem?id=3293)
+  - [x] [POJ 2482: Stars in Your Window](http://poj.org/problem?id=2482)
   
 # 4.1 数论（二）
 - 模运算
