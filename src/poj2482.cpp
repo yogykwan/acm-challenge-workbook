@@ -18,24 +18,25 @@ const int MAXN = 10010;
 struct Seg {
   Seg() {}
 
-  Seg(int _x1, int _x2, int _y, int _t) : x1(_x1), x2(_x2), y(_y), t(_t) {}
+  Seg(LL _x1, LL _x2, LL _y, LL _t) : x1(_x1), x2(_x2), y(_y), t(_t) {}
 
-  int x1, x2, y, t;
+  LL x1, x2, y, t;
 
   bool operator<(const Seg &s) const {
     return y < s.y;
   }
 } s[MAXN << 1];
 
-int x[MAXN << 1];
-int nx;
-int n, H, W;
+LL x[MAXN << 1];
+int nx, n;
+LL H, W;
 
 LL t[1 << 16], lz[1 << 16];
 
 void Down(int rt) {
   if (lz[rt]) {
-    lz[rt << 1] = lz[rt << 1 | 1] = lz[rt];
+    lz[rt << 1] += lz[rt];
+    lz[rt << 1 | 1] += lz[rt];
     t[rt << 1] += lz[rt];
     t[rt << 1 | 1] += lz[rt];
     lz[rt] = 0;
@@ -60,11 +61,10 @@ void Update(int rt, int l, int r, int a, int b, int c) {
 }
 
 int main() {
-  freopen("/Users/yogy/acm-challenge-workbook/db.in", "r", stdin);
-  while (scanf("%d%d%d", &n, &W, &H) != EOF && n) {
+  while (scanf("%d%lld%lld", &n, &W, &H) != EOF && n) {
     for (int i = 0; i < n; ++i) {
-      int a, b, c;
-      scanf("%d%d%d", &a, &b, &c);
+      LL a, b, c;
+      scanf("%lld%lld%lld", &a, &b, &c);
       s[i] = Seg(a - W + 1, a, b - H + 1, c);
       s[i + n] = Seg(a - W + 1, a, b + 1, -c);
       x[i] = a - W + 1;
@@ -73,19 +73,16 @@ int main() {
     sort(x, x + n * 2);
     nx = unique(x, x + n * 2) - x;
 
-//    for (int i = 0; i < n << 1; ++i) {printf("seg %d : %d %d %d %d\n", i, s[i].x1, s[i].x2, s[i].y, s[i].t);}
-
     for (int i = 0; i < n; ++i) {
       s[i].x1 = s[i + n].x1 = lower_bound(x, x + nx, s[i].x1) - x;
       s[i].x2 = s[i + n].x2 = lower_bound(x, x + nx, s[i].x2) - x;
     }
     sort(s, s + n * 2);
 
-//    for (int i = 0; i < n << 1; ++i) {printf("seg %d : %d %d %d %d\n", i, s[i].x1, s[i].x2, s[i].y, s[i].t);}
-
     LL ans = 0;
     memset(t, 0, sizeof(t));
-    int line = -10000000;
+    memset(lz, 0, sizeof(lz));
+    LL line = -10000000;
     for (int i = 0; i < n << 1; ++i) {
       if (s[i].y != line) {
         ans = max(ans, t[1]);
