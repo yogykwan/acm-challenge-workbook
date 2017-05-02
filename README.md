@@ -5,7 +5,7 @@
 * 题量：约200道，代码注释内含详解。
 * 难度：总体高于Leetcode，部分接近ACM。
 * 题解：代码均AC，题解个人向；Bug或优化请建Issue或Pull Request。
-* 计划：持续更新，预计2017年4月完成。
+* 计划：持续更新，保证2017年5月初完成。
 
 # 1.1 题库来源
 - Google Code Jam（[GCJ](https://code.google.com/codejam)）
@@ -343,8 +343,8 @@
   - [x] [AOJ 1312: Where's Wally](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1312)
 
 - 后缀数组
-  - [ ] [POJ 1509: ](http://poj.org/problem?id=)
-  - [ ] [POJ 3415: ](http://poj.org/problem?id=)
-  - [ ] [POJ 3729: ](http://poj.org/problem?id=)
-  - [ ] [AOJ 2292: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2292)
-  - [ ] [CF 123D: ]()
+  - [x] [POJ 1509: Glass Beads](http://poj.org/problem?id=1509)
+  - [x] [POJ 3415: Common Substrings](http://poj.org/problem?id=3415)
+  - [x] [POJ 3729: Facer’s string](http://poj.org/problem?id=3729)
+  - [ ] [AOJ 2292: Common Palindromes](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2292)
+  - [x] [CF 123D: String](http://codeforces.com/problemset/problem/123/D)
