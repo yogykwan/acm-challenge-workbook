@@ -44,7 +44,7 @@
 [常用技巧（二） √](#44-常用技巧二)、
 [智慧搜索 √](#45-智慧搜索)、
 [分治 √](#46-分治)、
-[字符串](#47-字符串)
+[字符串 √](#47-字符串)
 
 # 2 初级算法
 
@@ -346,5 +346,5 @@
   - [x] [POJ 1509: Glass Beads](http://poj.org/problem?id=1509)
   - [x] [POJ 3415: Common Substrings](http://poj.org/problem?id=3415)
   - [x] [POJ 3729: Facer’s string](http://poj.org/problem?id=3729)
-  - [ ] [AOJ 2292: Common Palindromes](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2292)
+  - [x] [AOJ 2292: Common Palindromes](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2292)
   - [x] [CF 123D: String](http://codeforces.com/problemset/problem/123/D)
