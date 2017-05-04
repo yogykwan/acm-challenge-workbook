@@ -216,10 +216,10 @@
   
 # 3.5 网络流
 - 最大流与最小割
-  - [ ] [POJ 3713: ](http://poj.org/problem?id=)
-  - [ ] [POJ 2987: ](http://poj.org/problem?id=)
-  - [ ] [POJ 2914: ](http://poj.org/problem?id=)
-  - [ ] [POJ 3155: ](http://poj.org/problem?id=)
+  - [x] [POJ 3713: Transferring Sylla](http://poj.org/problem?id=3713)
+  - [x] [POJ 2987: Firing](http://poj.org/problem?id=2987)
+  - [x] [POJ 2914: Minimum Cut](http://poj.org/problem?id=2914)
+  - [x] [POJ 3155: Hard Life](http://poj.org/problem?id=3155)
   
 - 二分图匹配
   - [ ] [POJ 1274: ](http://poj.org/problem?id=)
