@@ -222,19 +222,19 @@
   - [x] [POJ 3155: Hard Life](http://poj.org/problem?id=3155)
   
 - 二分图匹配
-  - [ ] [POJ 1274: ](http://poj.org/problem?id=)
-  - [ ] [POJ 2112: ](http://poj.org/problem?id=)
-  - [ ] [POJ 1486: ](http://poj.org/problem?id=)
-  - [ ] [POJ 1466: ](http://poj.org/problem?id=)
-  - [ ] [POJ 3692: ](http://poj.org/problem?id=)
-  - [ ] [POJ 2724: ](http://poj.org/problem?id=)
-  - [ ] [POJ 2226: ](http://poj.org/problem?id=)
-  - [ ] [AOJ 2251: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2251)
+  - [x] [POJ 1274: The Perfect Stall](http://poj.org/problem?id=1274)
+  - [x] [POJ 2112: Optimal Milking](http://poj.org/problem?id=2112)
+  - [x] [POJ 1486: Sorting Slides](http://poj.org/problem?id=1486)
+  - [x] [POJ 1466: Girls and Boys](http://poj.org/problem?id=1466)
+  - [x] [POJ 3692: Kindergarten](http://poj.org/problem?id=3692)
+  - [x] [POJ 2724: Purifying Machine](http://poj.org/problem?id=2724)
+  - [x] [POJ 2226: Muddy Fields](http://poj.org/problem?id=2226)
+  - [x] [AOJ 2251: Merry Christmas](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2251)
   
 - 最小费用流
-  - [ ] [POJ 3068: ](http://poj.org/problem?id=)
-  - [ ] [POJ 2195: ](http://poj.org/problem?id=)
-  - [ ] [POJ 3422: ](http://poj.org/problem?id=)
+  - [ ] [POJ 3068: ](http://poj.org/problem?id=3068)
+  - [ ] [POJ 2195: ](http://poj.org/problem?id=2195)
+  - [ ] [POJ 3422: ](http://poj.org/problem?id=3422)
   - [ ] [AOJ 2266: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2266)
   - [ ] [AOJ 2230: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2230)
   
