@@ -1,11 +1,10 @@
 # 1 前言
 
-项目为[《挑战程序设计竞赛（第2版）》](http://www.ituring.com.cn/book/1044)习题册，配合书籍或笔记，系统学习算法。
+项目为[《挑战程序设计竞赛（第2版）》](http://www.ituring.com.cn/book/1044)习题册攻略，已完结。可配合书籍或笔记，系统学习算法。
 
 * 题量：约200道，代码注释内含详解。
 * 难度：总体高于Leetcode，部分接近ACM。
 * 题解：代码均AC，题解个人向；Bug或优化请建Issue或Pull Request。
-* 计划：持续更新，保证2017年5月初完成。
 
 # 1.1 题库来源
 - Google Code Jam（[GCJ](https://code.google.com/codejam)）
@@ -22,29 +21,29 @@
 # 1.3 题库目录
 
 * 初级： 
-[穷竭搜索 √](#21-穷竭搜索)、
-[贪心法 √](#22-贪心法)、
-[动态规划 √](#23-动态规划)、
-[数据结构 √](#24-数据结构)、
-[图论 √](#25-图论)、
-[数论 √](#26-数论)
+[穷竭搜索](#21-穷竭搜索)、
+[贪心法](#22-贪心法)、
+[动态规划](#23-动态规划)、
+[数据结构](#24-数据结构)、
+[图论](#25-图论)、
+[数论](#26-数论)
 
 * 中级：
-[二分搜索 √](#31-二分搜索)、
-[常用技巧 √](#32-常用技巧)、
-[数据结构（二） √](#33-数据结构二)、
-[动态规划（二） √](#34-动态规划二)、
+[二分搜索](#31-二分搜索)、
+[常用技巧](#32-常用技巧)、
+[数据结构（二）](#33-数据结构二)、
+[动态规划（二）](#34-动态规划二)、
 [网络流](#35-网络流)、
-[计算几何 √](#36-计算几何)
+[计算几何](#36-计算几何)
 
 * 高级：
-[数论（二） √](#41-数论二)、
-[博弈论 √](#42-博弈论)、
-[图论（二） √](#43-图论二)、
-[常用技巧（二） √](#44-常用技巧二)、
-[智慧搜索 √](#45-智慧搜索)、
-[分治 √](#46-分治)、
-[字符串 √](#47-字符串)
+[数论（二）](#41-数论二)、
+[博弈论](#42-博弈论)、
+[图论（二）](#43-图论二)、
+[常用技巧（二）](#44-常用技巧二)、
+[智慧搜索](#45-智慧搜索)、
+[分治](#46-分治)、
+[字符串](#47-字符串)
 
 # 2 初级算法
 
@@ -232,11 +231,11 @@
   - [x] [AOJ 2251: Merry Christmas](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2251)
   
 - 最小费用流
-  - [ ] [POJ 3068: ](http://poj.org/problem?id=3068)
-  - [ ] [POJ 2195: ](http://poj.org/problem?id=2195)
-  - [ ] [POJ 3422: ](http://poj.org/problem?id=3422)
-  - [ ] [AOJ 2266: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2266)
-  - [ ] [AOJ 2230: ](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2230)
+  - [x] [POJ 3068: "Shortest" pair of paths](http://poj.org/problem?id=3068)
+  - [x] [POJ 2195: Going Home](http://poj.org/problem?id=2195)
+  - [x] [POJ 3422: Kaka's Matrix Travels](http://poj.org/problem?id=3422)
+  - [x] [AOJ 2266: Cache Strategy](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2266)
+  - [x] [AOJ 2230: How to Create a Good Game](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2230)
   
 # 3.6 计算几何
 - 极限
